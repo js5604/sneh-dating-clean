@@ -72,11 +72,9 @@ dependencies {
     implementation(libs.firebase.firestore)
     implementation(libs.firebase.messaging)
 
-    // Coil for SVG/Images
+    // Images and Icons
     implementation("io.coil-kt:coil-compose:2.5.0")
     implementation("io.coil-kt:coil-svg:2.5.0")
-
-    // Material Icons Extended
     implementation("androidx.compose.material:material-icons-extended:1.6.0")
 
     testImplementation(libs.junit)
