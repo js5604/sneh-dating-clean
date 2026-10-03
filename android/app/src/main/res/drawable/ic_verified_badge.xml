@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Emerald Shield -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M12,2 L4,5 L4,11 C4,16.5 7.4,21.6 12,23 C16.6,21.6 20,16.5 20,11 L20,5 L12,2 Z" />
+    <!-- White Checkmark -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M10,15.5 L6.5,12 L7.9,10.6 L10,12.7 L16.1,6.6 L17.5,8 L10,15.5 Z" />
+</vector>

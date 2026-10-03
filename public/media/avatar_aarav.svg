@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1e1b4b" />
+      <stop offset="100%" stop-color="#312e81" />
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" fill="url(#bg)" />
+  <circle cx="200" cy="150" r="70" fill="#fcd34d" />
+  <!-- Hair & Turban -->
+  <path d="M 120,130 C 120,70 160,50 200,50 C 240,50 280,70 280,130 C 280,95 240,80 200,80 C 160,80 120,95 120,130 Z" fill="#1e293b" />
+  <!-- Beard & Mustache -->
+  <path d="M 160,185 C 180,195 200,195 220,185 C 235,180 240,195 220,205 C 200,215 180,215 160,205 C 140,195 145,180 160,185 Z" fill="#0f172a" />
+  <path d="M 140,160 C 140,230 170,250 200,250 C 230,250 260,230 260,160 C 250,210 230,235 200,235 C 170,235 150,210 140,160 Z" fill="#0f172a" />
+  <!-- Shoulders / Kurta -->
+  <path d="M 80,400 C 90,300 130,250 200,250 C 270,250 310,300 320,400 Z" fill="#4338ca" />
+  <path d="M 185,250 L 200,320 L 215,250 Z" fill="#fbbf24" />
+</svg>

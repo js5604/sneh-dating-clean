@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#064e3b" />
+      <stop offset="100%" stop-color="#047857" />
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" fill="url(#bg)" />
+  <circle cx="200" cy="180" r="95" fill="#18181b" />
+  <circle cx="200" cy="155" r="62" fill="#fde68a" />
+  <path d="M 130,150 C 120,240 130,340 150,400 L 175,400 C 155,340 145,240 155,150 Z" fill="#18181b" />
+  <path d="M 270,150 C 280,240 270,340 250,400 L 225,400 C 245,340 255,240 245,150 Z" fill="#18181b" />
+  <!-- Small delicate Bindi -->
+  <circle cx="200" cy="138" r="3" fill="#be123c" />
+  <!-- Emerald Anarkali -->
+  <path d="M 100,400 C 110,290 140,240 200,240 C 260,240 290,290 300,400 Z" fill="#059669" />
+  <path d="M 180,240 L 200,310 L 220,240 Z" fill="#fef08a" />
+</svg>

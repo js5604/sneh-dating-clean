@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#4c0519" />
+      <stop offset="100%" stop-color="#881337" />
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" fill="url(#bg)" />
+  <!-- Hair Base -->
+  <circle cx="200" cy="180" r="100" fill="#09050d" />
+  <!-- Face -->
+  <circle cx="200" cy="155" r="65" fill="#fed7aa" />
+  <!-- Long Hair strands -->
+  <path d="M 125,160 C 110,240 120,330 145,400 L 175,400 C 150,330 140,240 150,160 Z" fill="#09050d" />
+  <path d="M 275,160 C 290,240 280,330 255,400 L 225,400 C 250,330 260,240 250,160 Z" fill="#09050d" />
+  <!-- Bindi & Jhumka -->
+  <circle cx="200" cy="135" r="3.5" fill="#e11d48" />
+  <circle cx="132" cy="165" r="5" fill="#f59e0b" />
+  <circle cx="268" cy="165" r="5" fill="#f59e0b" />
+  <!-- Kurti / Dress -->
+  <path d="M 100,400 C 110,290 140,240 200,240 C 260,240 290,290 300,400 Z" fill="#e11d48" />
+  <path d="M 180,240 C 185,280 200,310 200,310 C 200,310 215,280 220,240 Z" fill="#fbbf24" />
+</svg>

@@ -1,0 +1,27 @@
+# Node & Web build
+node_modules/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+.aistudio/
+
+# Gradle & Android Studio
+.gradle/
+build/
+android/.gradle/
+android/build/
+android/app/build/
+local.properties
+*.iml
+.idea/
+.navigation/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Ensure Gradle wrapper JAR is committed
+!gradle/wrapper/gradle-wrapper.jar
+!android/gradle/wrapper/gradle-wrapper.jar

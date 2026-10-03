@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" width="800" height="300">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#241228" />
+      <stop offset="50%" stop-color="#140b1c" />
+      <stop offset="100%" stop-color="#0a0510" />
+    </linearGradient>
+    <linearGradient id="rose" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FB7185" />
+      <stop offset="50%" stop-color="#E11D48" />
+      <stop offset="100%" stop-color="#9F1239" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="300" rx="24" fill="url(#grad)" stroke="#E11D48" stroke-width="2" stroke-opacity="0.3" />
+  
+  <!-- Glowing Heart Logo Left -->
+  <g transform="translate(60, 45) scale(0.55)">
+    <path d="M 256,380 C 256,380 120,290 120,195 C 120,135 165,95 220,95 C 242,95 256,110 256,110 C 256,110 270,95 292,95 C 347,95 392,135 392,195 C 392,290 256,380 256,380 Z" fill="url(#rose)" />
+    <path d="M 256,320 C 256,320 185,255 185,195 C 185,155 215,130 256,170 C 297,130 327,155 327,195 C 327,255 256,320 256,320 Z" fill="#F59E0B" />
+  </g>
+
+  <!-- Typography Right -->
+  <text x="360" y="115" font-family="'Plus Jakarta Sans', sans-serif" font-size="44" font-weight="800" fill="#FFFFFF" letter-spacing="1">SNEH • ਸਨੇਹ</text>
+  <text x="360" y="155" font-family="'Plus Jakarta Sans', sans-serif" font-size="18" font-weight="600" fill="#FDE68A" letter-spacing="0.5">Where Authentic Indian Hearts Connect</text>
+  <text x="360" y="200" font-family="'Plus Jakarta Sans', sans-serif" font-size="14" fill="#94A3B8">DigiLocker Verified • Privacy First • DPDP Act Compliant</text>
+</svg>
