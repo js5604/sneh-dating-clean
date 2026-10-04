@@ -3,6 +3,9 @@
     <string name="app_name">Sneh Dating</string>
     <string name="delete_account_confirm">Are you sure you want to delete your account? This action cannot be undone.</string>
     
+    <!-- Safety Center -->
+    <string name="safety_center_title">Safety Center</string>
+    <string name="emergency_helpline_title">Emergency Helpline</string>
     <string name="safety_rule_1_title">Keep Personal Info Private</string>
     <string name="safety_rule_1_desc">Never share your financial details, address, or sensitive personal data with anyone.</string>
     <string name="safety_rule_2_title">Stay on the Platform</string>
@@ -11,4 +14,12 @@
     <string name="safety_rule_3_desc">Always meet for the first few times in populated, public venues and let a friend know.</string>
     <string name="safety_rule_4_title">Report Suspicious Behavior</string>
     <string name="safety_rule_4_desc">Block and report anyone who makes you feel unsafe or violates our community standards.</string>
+
+    <!-- Privacy Dashboard -->
+    <string name="privacy_dashboard_title">Privacy Dashboard</string>
+    <string name="privacy_approx_loc">Approximate Location</string>
+    <string name="privacy_incognito">Incognito Browsing</string>
+    <string name="privacy_read_receipts">Read Receipts</string>
+    <string name="privacy_download_data">Download My Data</string>
+    <string name="privacy_delete_account">Delete Account</string>
 </resources>
