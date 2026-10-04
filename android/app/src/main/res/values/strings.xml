@@ -22,4 +22,16 @@
     <string name="privacy_read_receipts">Read Receipts</string>
     <string name="privacy_download_data">Download My Data</string>
     <string name="privacy_delete_account">Delete Account</string>
+
+    <!-- Chat & Safety Warnings -->
+    <string name="safety_warning_title">Safety Notice</string>
+    <string name="safety_warning_otp_upi">Never share OTPs, passwords, or send money through UPI to anyone you meet online.</string>
+    <string name="chat_placeholder">Type a message…</string>
+
+    <!-- Discovery & Profile -->
+    <string name="verified_member">Verified Member</string>
+    <string name="verified_tick_label">Verified Badge</string>
+    <string name="approx_distance">Approximate Distance</string>
+    <string name="theme_royal_gulab">Royal Gulab</string>
+    <string name="theme_title">Themes</string>
 </resources>
